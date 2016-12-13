@@ -10,6 +10,6 @@ constructor(n,p,s){
 }
 
 //Create your three test items below this comment.
-let mygift = new Item(book,20,3);
-let yourgift = new Item(chair,89,10);
-let bestgift = new Item (basketball,50,5);
+let mygift = new Item("book",20,3);
+let yourgift = new Item("chair",89,10);
+let bestgift = new Item ("basketball",50,5);
